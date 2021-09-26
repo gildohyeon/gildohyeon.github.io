@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "크크마트의 유래와 스낵컬쳐."
+title: "스낵컬쳐란?"
 author: "관리자"
 tags: ["keukeumart", "snackculture"]
 ---
