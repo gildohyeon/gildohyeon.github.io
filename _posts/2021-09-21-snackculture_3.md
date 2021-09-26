@@ -74,3 +74,4 @@ Other things
 Snack culture is also derived from various apps, such as Moncast and Pickicast. These apps provide snack culture short contents (mainly food, current affairs, life, food, etc.) so that users can consume them.
 
 <br/>
+
